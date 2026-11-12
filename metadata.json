@@ -1,0 +1,6 @@
+{
+  "name": "GuitarTabGenerator",
+  "description": "Convert photos of guitar sheet music into interactive 6-string guitar tablature with audio playback.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
